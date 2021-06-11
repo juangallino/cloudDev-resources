@@ -5,7 +5,8 @@ Repository de recursos y organizacion de microservicios.
 ##Descripcion  
   Proyecto Individual. <br>
   Apartir de las funcionalidades solicitadas se desarrollo a medida los metodos correspondiente y su arquitectura de ApiRest.
-  Sistema de gestión de stock, pedidos, usuarios y gestor de pagos, implementado en una arquitectura de MicroServicios en la nube, utilizando SpringBoot, JMS(Artemis),  Docker y Azure Cloud. En desarrollo..frontend en React.Js.
+  Sistema de gestión de stock, pedidos, usuarios y gestor de pagos, implementado en una arquitectura de MicroServicios en la nube, utilizando SpringBoot, JMS(Artemis, Docker.
+  En desarrollo integracion Azure Cloud y frontend en React.Js.
   
 
 
