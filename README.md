@@ -10,12 +10,14 @@ Repository de recursos y organizacion de microservicios.
 ## Stack
   Implementado en una arquitectura de MicroServicios.
   Java, SpringBoot, Hibernet, JMS(Artemis queue), Docker, Jenkins, Prometheus y Graphana. 
-### ApiGateway(Zull), Service Discovery(Eureka) y Load balancer configurado y ruteado utilizando docker compose
+  # ApiGateway(Zull), Service Discovery(Eureka) y Load balancer. 
   En desarrollo integracion Azure Cloud y frontend en React.Js.
   
 
 
 ## Links a c/u de los Micro Servicios.
+https://github.com/juangallino/devops-danApp
+
 https://github.com/juangallino/ms-usuario
 
 https://github.com/juangallino/ms-pedido
