@@ -10,6 +10,7 @@ Repository de recursos y organizacion de microservicios.
 ## Stack
   Implementado en una arquitectura de MicroServicios.
   Java, SpringBoot, Hibernet, JMS(Artemis queue), Docker, Jenkins, Prometheus y Graphana. 
+  # ApiGateway(Zull), Service Discovery(Eureka) y Load balancer. 
   En desarrollo integracion Azure Cloud y frontend en React.Js.
   
 
