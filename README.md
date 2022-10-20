@@ -8,7 +8,7 @@ Repository de recursos y organizacion de microservicios.
   Sistema de gestión de stock, pedidos, usuarios y gestor de pagos,
 
 ## Stack
-  Implementado en una arquitectura de MicroServicios.
+  Implementado en una arquitectura de Microservicios.
   Java, SpringBoot, Hibernet, JMS(Artemis queue), Docker, Jenkins, Prometheus y Graphana. 
   # ApiGateway(Zull), Service Discovery(Eureka) y Load balancer. 
   En desarrollo integracion Azure Cloud y frontend en React.Js.
@@ -16,9 +16,11 @@ Repository de recursos y organizacion de microservicios.
 
 
 ## Links a c/u de los Micro Servicios.
-https://github.com/juangallino/devops-danApp
- 
-https://github.com/juangallino/dan-ui-app
+Infraestructura https://github.com/juangallino/devops-danApp
+
+UI https://github.com/juangallino/dan-ui-app
+
+Microservicios
 
 https://github.com/juangallino/ms-usuario
 
